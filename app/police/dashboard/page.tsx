@@ -8,8 +8,7 @@ import NavBar from '../../components/NavBar';
 export default function PoliceUserManagement(){
     return (
         <form action="">
-            <NavBar />
-            
+            <NavBar />  
             <div className="police-user-management-container">
                 <div className="police-user-management-searchbar">
                     <div className="police-user-management-textfield-container">
